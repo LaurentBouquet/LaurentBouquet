@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/LaurentBouquet/LaurentBouquet/dist/github-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/LaurentBouquet/LaurentBouquet/dist/dist/github-contribution-grid-snake.svg)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
