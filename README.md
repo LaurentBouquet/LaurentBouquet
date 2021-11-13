@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/LaurentBouquet/LaurentBouquet/dist/github-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 <!--
 **LaurentBouquet/LaurentBouquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
